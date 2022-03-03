@@ -14,5 +14,5 @@
  
  https://disk.yandex.ru/i/waMZZ50A2qvOyw 
  
- Более подробно о программе в отчет.pdf
+ Более подробно о программе в description.pdf
 
